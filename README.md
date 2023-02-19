@@ -1,5 +1,6 @@
 # odin-recipes
 
-What is this Project?
+This project displays a list full of recipes to do with comfort food.
 
-What are the skills I've demonstrated in this project?
+The Skills I have demonstrated in this assignment include creating ordered and unordered lists, the use of hyper links and images, and of course some damn nice recipes for some nice as food!
+There is also examples of git commit messages.
